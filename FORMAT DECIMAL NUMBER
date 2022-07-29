@@ -1,0 +1,13 @@
+create variable Amount to assign activity and change variable type to int
+
+assign activity
+Amount = 100000
+
+writeln activity
+String.Format("{0:0.00}", Amount)
+
+Result 
+
+{
+  "message": "100,000.00",
+}
