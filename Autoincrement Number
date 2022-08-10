@@ -1,0 +1,23 @@
+Sample 
+create flowchart file
+
+Assign No=No+1
+for variable To Int32
+
+
+Result
+{
+Message:1
+Message:2
+Message:3
+}
+
+or you can build flow with retry file
+to Field Variable write no >= 3
+
+Result
+{
+Message:1
+Message:2
+Message:3
+}
