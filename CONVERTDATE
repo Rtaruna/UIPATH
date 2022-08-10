@@ -1,0 +1,12 @@
+Convert.ToDateTime(strDate).ToString("yyMMdd")
+
+sample
+
+Assign
+StrDate="22 Jul 29"
+writeln=convert.ToDateTime(StrDate).toString("yyMMdd")
+
+Result
+{
+  "message": "220729"
+}
